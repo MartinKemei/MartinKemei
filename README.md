@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinkemei&label=Profile%20views&color=0e75b6&style=flat" alt="martinkemei" /> </p>
 
 
-- 🔭 I’m currently working on **C programming**
+- 🔭 I’m currently working on **My journey into becoming a full stack developer**
 
-- 🌱 I’m currently learning **Shell, C, Java, AI, Python & Data Structures**
+- 🌱 I’m currently learning **SHELL, LINUX, C, && Python**
 
-- 👯 I’m looking to collaborate on **Becoming a fullstack developer**
+- 👯 I’m looking to collaborate on **Nothing as for now as I am still learning**
 
 - 🤝 I’m looking for help with **Full stack development guides**
 
-- 💬 Ask me about **Shell, C & Python**
+- 💬 Ask me about **Nothing personal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
