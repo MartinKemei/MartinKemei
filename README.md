@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SHELL, LINUX, C, && Python**
 
-- 👯 I’m looking to collaborate on **Nothing as for now as I am still learning**
+- 👯 I’m looking to collaborate on **Beginner frendly projects as for now as I am still learning**
 
 - 🤝 I’m looking for help with **Full stack development guides**
 
