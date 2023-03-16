@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My journey into becoming a full stack developer**
 
-- 🌱 I’m currently learning **SHELL, LINUX, C, && Python**
+- 🌱 I’m currently learning **C & Python**
 
 - 👯 I’m looking to collaborate on **Beginner frendly projects as for now as I am still learning**
 
