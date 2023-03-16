@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Full stack development guides**
 
-- 💬 Ask me about **Nothing personal**
+- 💬 Ask me about **Everthing tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
