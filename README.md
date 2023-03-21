@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **My journey into becoming a full stack developer**
 
-- 🌱 I’m currently learning **C & Python**
+- 🌱 I’m currently learning **C && Python**
 
-- 👯 I’m looking to collaborate on **Beginner frendly projects as for now as I am still learning**
+- 🤝 I’m looking forward to solidify my understanding in **Computer Science**
 
-- 🤝 I’m looking for help with **Full stack development guides**
-
-- 💬 Ask me about **Everthing tech**
+- 💬 Ask me about **Everthing Tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
