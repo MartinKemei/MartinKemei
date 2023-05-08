@@ -11,7 +11,6 @@
 
 - 🤝 I’m looking forward to solidify my understanding in **Computer Science**
 
-- 💬 Ask me about **Everthing Tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
