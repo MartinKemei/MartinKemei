@@ -9,7 +9,7 @@
 
 - 🌱 **I'm learning more technology every day.**
 
-- 🤝 I’m looking forward to solidify my understanding in **Computer Science**
+- 🤝 I’m looking forward to solidify my understanding in **Computer Science.**
 
 
 <h3 align="left">Connect with me:</h3>
