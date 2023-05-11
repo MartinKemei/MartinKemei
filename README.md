@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinkemei&label=Profile%20views&color=0e75b6&style=flat" alt="martinkemei" /> </p>
 
 
-- 🔭 I’m currently working on **My journey into becoming a full stack developer**
+- 🔭 I’m currently working on **Becoming a better computerist**
 
-- 🌱 I’m currently learning **C && Python**
+- 🌱 I’m currently learning **Everything increasing my knowledge on tech**
 
 - 🤝 I’m looking forward to solidify my understanding in **Computer Science**
 
