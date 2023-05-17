@@ -11,6 +11,11 @@
 
 - 🤝 I’m looking forward to solidify my understanding in **Computer Science.**
 
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
