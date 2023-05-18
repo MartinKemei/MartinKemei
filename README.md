@@ -11,12 +11,6 @@
 
 - 🤝 I’m looking forward to solidify my understanding in **Computer Science.**
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@martin_kemei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@martinkemei" height="30" width="40" /></a>
@@ -33,6 +27,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinkemei&show_icons=true&locale=en" alt="martinkemei" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinkemei&" alt="martinkemei" /></p>
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
   > Thanks for visiting :heart:
 
