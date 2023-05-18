@@ -1,4 +1,6 @@
-`Welcome to my profile`
+***
+
+# Welcome to my profile
 
 <img align="right" alt="Coding" width="400" src="https://www.zastavki.com/pictures/originals/2015/Computers_Man_holds_the_program_code_098860_.jpg" />
 
