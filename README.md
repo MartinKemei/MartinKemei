@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile</h1>
 
-<img align="right" alt="Coding" width="400" src="https://www.zastavki.com/pictures/originals/2015/Computers_Man_holds_the_program_code_098860_.jpg"
+<img align="right" alt="Coding" width="400" src="https://www.zastavki.com/pictures/originals/2015/Computers_Man_holds_the_program_code_098860_.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinkemei&label=Profile%20views&color=0e75b6&style=flat" alt="martinkemei" /> </p>
 
